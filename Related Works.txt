@@ -1,6 +1,17 @@
+Finding any Waldo with zero-shot invariant and efficient visual search
+    https://www.nature.com/articles/s41467-018-06217-x
+
+A Deep Learning approach to Template Matching
+    http://cs231n.stanford.edu/reports/2017/pdfs/817.pdf
+
+Automatic object recognition applied to Where's Waldo:
+    https://ieeexplore.ieee.org/document/6531040
+
+
     https://stackoverflow.com/questions/8849869/how-do-i-find-wally-with-python
 
-
+Mahotas
+    https://www.geeksforgeeks.org/wheres-wally-problem-using-mahotas/
 
 cv2.matchTemplate() //We could try different error functions
     https://medium.com/analytics-vidhya/finding-waldo-feature-matching-for-opencv-9bded7f5ab10
@@ -16,3 +27,5 @@ Machine learning, neural networks and the like:
     https://www.linkedin.com/pulse/using-computer-vision-find-waldo-matilda-sori%C4%87?trk=articles_directory
     https://github.com/XingruiWang/wheres-waldo
     www.reddit.com/r/computervision/comments/gu1a5y/i_made_a_solver_for_wheres_wally_aka_waldo_images/
+    https://towardsdatascience.com/how-to-find-wally-neural-network-eddbb20b0b90
+    https://fortes-arthur.medium.com/how-to-label-wheres-wally-waldo-images-using-opencv-and-deep-learning-yolo-v2-abba7150999f
