@@ -1,0 +1,18 @@
+    https://stackoverflow.com/questions/8849869/how-do-i-find-wally-with-python
+
+
+
+cv2.matchTemplate() //We could try different error functions
+    https://medium.com/analytics-vidhya/finding-waldo-feature-matching-for-opencv-9bded7f5ab10
+    https://www.pyimagesearch.com/wp-content/uploads/2014/11/opencv_crash_course_waldo.pdf
+
+Python Imaging Library:
+    https://github.com/jacobsevart/waldo_uchicago
+
+Machine learning, neural networks and the like:
+    https://www.clarifai.com/blog/wheres-waldo-using-machine-learning-to-find-all-the-waldos
+    https://cloud.google.com/vision
+    https://diglib.eg.org/bitstream/handle/10.2312/cgvc20211313/027-031.pdf
+    https://www.linkedin.com/pulse/using-computer-vision-find-waldo-matilda-sori%C4%87?trk=articles_directory
+    https://github.com/XingruiWang/wheres-waldo
+    www.reddit.com/r/computervision/comments/gu1a5y/i_made_a_solver_for_wheres_wally_aka_waldo_images/
